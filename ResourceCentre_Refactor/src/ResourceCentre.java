@@ -84,6 +84,7 @@ public class ResourceCentre {
 				} else {
 					System.out.println("Invalid type");
 				}
+				test
 
 			} else if (option == OPTION_RETURN) {
 				// Return item
